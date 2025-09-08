@@ -16,7 +16,7 @@ It enables decision-makers to monitor **KPI performance, pipeline bottlenecks, a
 
 This project was developed using the following tools and technologies:  
 
-- 🗄️ **SQL (MySQL/SQL Server)** – For KPI calculations, data extraction, and transformations  
+- 🗄️ **SQL** – For KPI calculations, data extraction, and transformations  
 - 📊 **Excel** – For static dashboard creation using pivot tables & slicers  
 - 📈 **Power BI Desktop** – For interactive and drill-down business insights  
 - 📉 **Tableau** – For storytelling dashboards and visual analytics  
@@ -87,9 +87,3 @@ To deliver a **comprehensive visual analytics tool** that:
 - **Product Insights** → Identifies which product groups are driving growth  
 
 ---
-
-## 🚀 How to Use  
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
