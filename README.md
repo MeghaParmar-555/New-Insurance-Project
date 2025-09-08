@@ -7,7 +7,7 @@ This project integrates SQL queries with dashboards in **Excel, Power BI, and Ta
 
 ## 📝 Short Description / Purpose  
 
-The **Supply Chain & Sales Analytics Dashboard** provides businesses with **actionable insights** into sales activities, client engagement, and revenue generation.  
+The **Insurance Analytics Dashboard** provides businesses with **actionable insights** into sales activities, client engagement, and revenue generation.  
 It enables decision-makers to monitor **KPI performance, pipeline bottlenecks, and opportunity trends** across executives, products, and income classes.  
 
 ---
@@ -21,13 +21,10 @@ This project was developed using the following tools and technologies:
 - 📈 **Power BI Desktop** – For interactive and drill-down business insights  
 - 📉 **Tableau** – For storytelling dashboards and visual analytics  
 - 📝 **Data Modeling** – Relationships among invoices, opportunities, and budget tables  
-- 📁 **File Formats** – `.sql` (queries), `.xlsx` (Excel dashboard), `.pbix` (Power BI), `.twbx` (Tableau)  
 
 ---
 
-## 📂 Data Source  
-
-**Source:** Supply Chain & Sales Dataset (custom)  
+## 📂 About Dataset
 
 The dataset includes:  
 - **Invoices** → Amount, income class (New, Renewal, Cross-Sell), account executive  
@@ -81,6 +78,8 @@ To deliver a **comprehensive visual analytics tool** that:
 ### 🔹 Business Impact & Insights  
 
 - **Performance Tracking** → Helps leadership monitor sales team performance across KPIs  
+
+
 - **Target Achievement** → Identifies underperforming revenue streams (e.g., Cross-Sell)  
 - **Pipeline Optimization** → Highlights funnel stages with the largest revenue drop-offs  
 - **Strategic Planning** → Supports better allocation of resources and goal-setting  
